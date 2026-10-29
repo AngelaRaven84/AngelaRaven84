@@ -1,35 +1,42 @@
-## Hi there I'm Angela👋
- I'm Angela, currently studying for 2 years at Folkuniversitetet in Karlstad to become a frontend-developer. I'm pretty new at things, so, for now it's only HTML and CSS. Later though we will dive into the dreaded JavaScript. Something I have lightly studied before starting this education. Looking forward to it with terrified excitment.
+## Hi, I’m Sara 👋
 
- - 🔭 I’m currently working on ...
-Learning everything I can about how webdesign works
+I’m studying frontend development at Folkuniversitetet in Sweden, graduating in June 2027.
 
-- 🌱 I’m currently learning ...
-Frontend-developement and learning how to build and style webpages
+I enjoy creating accessible, user-friendly interfaces and understanding how the whole application fits together — from design and React components to backend APIs, databases and cloud services.
 
-- 📫 How to reach me: saraberg123@gmail.com
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+During my studies, I’ve worked with:
 
+- HTML, CSS, JavaScript and React
+- Node.js, REST APIs and JWT authentication
+- AWS Lambda, API Gateway, DynamoDB and S3
+- AI applications using LangChain, Ollama and Supabase
+- Git, GitHub and Figma
 
-- ⚡ Fun fact: ... I absolutley fell in love with Figma
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+Before moving into development, I worked in hospitality and customer service. That experience shapes my interest in understanding users and building things that make their everyday tasks easier.
 
-<img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white"/>
+### Selected projects
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelaRaven84&theme=zenburn"/>
-<!--
-**AngelaRaven84/AngelaRaven84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My pinned repositories include frontend applications, a calendar with a separate AWS backend, and AI projects. Each README explains the project’s scope, setup and limitations.
 
-Here are some ideas to get you started:
+I’m currently looking for a LIA internship for weeks 1–9 of 2027.
 
+### Contact
 
+<a href="mailto:saraberg123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sara"/>
+</a>
+<a href="https://www.linkedin.com/in/sara-berg-33487b2ab/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sara Berg on LinkedIn"/>
+</a>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### A little about me
 
+⚡ Fun fact: I absolutely fell in love with Figma!
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.figma.com/">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Visit Figma"/>
+</a>
+
+<a href="https://scrimba.com/">
+  <img src="https://img.shields.io/badge/Scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Visit Scrimba"/>
+</a>
